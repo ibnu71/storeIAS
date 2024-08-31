@@ -4486,3 +4486,232 @@ DEBUG - 2024-08-30 17:58:46 --> Global POST, GET and COOKIE data sanitized
 DEBUG - 2024-08-30 17:58:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
 DEBUG - 2024-08-30 17:58:46 --> Session class already loaded. Second attempt ignored.
 DEBUG - 2024-08-30 17:58:46 --> Total execution time: 0.0763
+DEBUG - 2024-08-30 18:04:09 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:09 --> No URI present. Default controller set.
+DEBUG - 2024-08-30 18:04:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:09 --> Total execution time: 0.1222
+DEBUG - 2024-08-30 18:04:09 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:09 --> 404 Page Not Found: Assets/fonts
+DEBUG - 2024-08-30 18:04:09 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:09 --> 404 Page Not Found: Assets/fonts
+DEBUG - 2024-08-30 18:04:10 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:10 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:11 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:11 --> Total execution time: 0.1320
+DEBUG - 2024-08-30 18:04:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:12 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:04:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:12 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:12 --> 404 Page Not Found: Assets/images
+ERROR - 2024-08-30 18:04:12 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:12 --> Total execution time: 0.1065
+DEBUG - 2024-08-30 18:04:20 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:20 --> Total execution time: 0.1446
+DEBUG - 2024-08-30 18:04:20 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:21 --> Total execution time: 0.1600
+DEBUG - 2024-08-30 18:04:23 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:23 --> Total execution time: 0.1103
+DEBUG - 2024-08-30 18:04:23 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:23 --> UTF-8 Support Enabled
+ERROR - 2024-08-30 18:04:23 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:23 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:23 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:04:23 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:04:23 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:04:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:04:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:04:23 --> Total execution time: 0.1129
+DEBUG - 2024-08-30 18:06:56 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:06:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:06:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:06:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:06:56 --> Total execution time: 0.0965
+DEBUG - 2024-08-30 18:06:57 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:06:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:06:57 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:06:57 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:06:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:06:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:06:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:06:57 --> Total execution time: 0.1177
+DEBUG - 2024-08-30 18:08:29 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:08:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:08:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:08:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:08:29 --> Total execution time: 0.1000
+DEBUG - 2024-08-30 18:08:29 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:08:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:08:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:08:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:08:29 --> Total execution time: 0.1029
+DEBUG - 2024-08-30 18:08:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:08:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:08:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:08:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:08:33 --> Total execution time: 0.0996
+DEBUG - 2024-08-30 18:08:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:08:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:08:33 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:08:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:08:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:08:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:08:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:08:33 --> Total execution time: 0.1129
+DEBUG - 2024-08-30 18:09:26 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:27 --> Total execution time: 0.1403
+DEBUG - 2024-08-30 18:09:27 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:27 --> Total execution time: 0.1036
+DEBUG - 2024-08-30 18:09:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:33 --> Total execution time: 0.1022
+DEBUG - 2024-08-30 18:09:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:09:33 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:09:33 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:34 --> Total execution time: 0.1140
+DEBUG - 2024-08-30 18:09:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:38 --> Total execution time: 0.0878
+DEBUG - 2024-08-30 18:09:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:09:38 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:09:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:09:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:09:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:09:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:09:38 --> Total execution time: 0.1315
+DEBUG - 2024-08-30 18:15:26 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:15:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:15:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:15:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:15:26 --> Total execution time: 0.1363
+DEBUG - 2024-08-30 18:15:26 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:15:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:15:26 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:15:26 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:15:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:15:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:15:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:15:26 --> Total execution time: 0.1386
+DEBUG - 2024-08-30 18:16:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:38 --> No URI present. Default controller set.
+DEBUG - 2024-08-30 18:16:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:16:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:16:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:16:38 --> Total execution time: 0.1031
+DEBUG - 2024-08-30 18:16:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:16:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:16:38 --> 404 Page Not Found: Assets/fonts
+ERROR - 2024-08-30 18:16:38 --> 404 Page Not Found: Assets/fonts
+DEBUG - 2024-08-30 18:16:38 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:16:38 --> 404 Page Not Found: Assets/images
+DEBUG - 2024-08-30 18:16:40 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:16:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:16:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:16:40 --> Total execution time: 0.0743
+DEBUG - 2024-08-30 18:16:40 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-08-30 18:16:40 --> 404 Page Not Found: Assets/gallery
+DEBUG - 2024-08-30 18:16:41 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:16:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:16:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:16:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:16:41 --> Total execution time: 0.1294
+DEBUG - 2024-08-30 18:20:13 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:20:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:20:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:20:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:20:13 --> Total execution time: 0.1025
+DEBUG - 2024-08-30 18:20:15 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:20:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:20:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:20:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:20:15 --> Total execution time: 0.0952
+DEBUG - 2024-08-30 18:21:01 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:21:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:21:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:21:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:21:01 --> Total execution time: 0.1099
+DEBUG - 2024-08-30 18:21:02 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:21:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:21:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:21:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:21:02 --> Total execution time: 0.0959
+DEBUG - 2024-08-30 18:22:57 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:22:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:22:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:22:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:22:57 --> Total execution time: 0.1379
+DEBUG - 2024-08-30 18:22:58 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:22:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:22:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:22:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:22:58 --> Total execution time: 0.1095
+DEBUG - 2024-08-30 18:22:59 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:22:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:22:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:22:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:22:59 --> Total execution time: 0.0776
+DEBUG - 2024-08-30 18:22:59 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:22:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:22:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:22:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:22:59 --> Total execution time: 0.1439
+DEBUG - 2024-08-30 18:23:08 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:23:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:23:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:23:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:23:08 --> Total execution time: 0.1202
+DEBUG - 2024-08-30 18:23:12 --> UTF-8 Support Enabled
+DEBUG - 2024-08-30 18:23:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-08-30 18:23:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2024-08-30 18:23:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-08-30 18:23:12 --> Total execution time: 0.0867

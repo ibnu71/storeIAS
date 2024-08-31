@@ -45,7 +45,7 @@ INSERT INTO gallery (id, image) VALUES
 (7, 'w7.jpg'),
 (8, 'w8.jpg'),
 (9, 'w9.jpg'),
-(11, 'w10.jpg'),
+(11, 'w14.jpg'),
 (12, 'w11.jpg'),
 (13, 'w12.jpg'),
 (14, 'w13.jpg');

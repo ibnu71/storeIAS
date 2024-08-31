@@ -10,7 +10,7 @@
                     <div class="information_f">
                         <p><strong>ADDRESS:</strong> Jakarta, Indonesia</p>
                         <p><strong>TELEPHONE:</strong> 008888888</p>
-                        <p><strong>EMAIL:</strong> ibnu hoho@gmail.com</p>
+                        <p><strong>EMAIL:</strong> IAS@gmail.com</p>
                     </div>
                 </div>
 
@@ -33,7 +33,7 @@
 
     <!-- footer end -->
     <div class="cpy_">
-        <p>2099 Made By <span>ibnu ganteng</span></p>
+        <p>2024 Made By <span>IAS(ibnu_akbar_Satria)</span></p>
     </div>
     <!-- jQery -->
     <script src="<?= base_url('assets/'); ?>js/jquery-3.4.1.min.js"></script>
